@@ -10,6 +10,7 @@
     <modules>
         <module>playframe</module>
       <module>springframe</module>
+      <module>withoutframe</module>
     </modules>
     <packaging>pom</packaging>
 
