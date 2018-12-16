@@ -1,6 +1,8 @@
 .idea
 *.iml
+*.jar
 
 springframe/target
 playframe/target
 withoutframe/target
+wm_road_to_acme/withoutframe/src/main/java/fjnu/framework/jooq/generated/tables
