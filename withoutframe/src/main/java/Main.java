@@ -38,6 +38,5 @@ public class Main {
 
   static interface AddAndPrint {
     void addAndPrint(Add add);
-    System.out.println(10 >> 3);
   }
 }
